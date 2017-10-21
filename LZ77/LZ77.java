@@ -7,7 +7,7 @@ package lz77;
 
 /**
  *
- * @author Aabdallah Mostafa
+ * @author Mostafa Garana
  */
 import java.io.*;
 import java.nio.file.Files;
